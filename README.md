@@ -3,7 +3,6 @@
 
 I am a student at the University of Texas at Austin. I'm currently studying Psychology with a minor in Sociology and a certificate in Applied Statistical Modeling! 
 
-Although I enjoy working with numbers and datasets, I think being able to view the numbers from a psychological and humanistic mindset gives much more meaning to the trends. 
 
 <!--
 **ruthhcarter/ruthhcarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
